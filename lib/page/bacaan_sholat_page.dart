@@ -59,14 +59,14 @@ class _BacaanSholatState extends State<BacaanSholat> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
-                              "Bacaan Salat",
+                              "Bacaan Sholat",
                               style: TextStyle(
                                   color: Color(0xff0e1446),
                                   fontSize: 20,
                                   fontWeight: FontWeight.bold),
                             ),
                             Text(
-                              "Bacaan Salat dari Iftitah sampai dengan Salam",
+                              "Bacaan Sholat dari Iftitah sampai dengan Salam",
                               style: TextStyle(
                                   color: Color(0xff0e1446),
                                   fontSize: 12,

@@ -16,7 +16,6 @@ class _MainPageState extends State<MainPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Bacaan Sholat"),
         actions: <Widget>[
           IconButton(
             icon: Icon(Icons.exit_to_app),
@@ -68,7 +67,7 @@ class _MainPageState extends State<MainPage> {
                           height: 10,
                         ),
                         Text(
-                          "Niat Shalat",
+                          "Niat Sholat",
                           style: TextStyle(
                               fontSize: 14, fontWeight: FontWeight.bold),
                         )
@@ -102,7 +101,7 @@ class _MainPageState extends State<MainPage> {
                           height: 10,
                         ),
                         Text(
-                          "Bacaan Shalat",
+                          "Bacaan Sholat",
                           style: TextStyle(
                               fontSize: 14, fontWeight: FontWeight.bold),
                         )
